@@ -18,7 +18,7 @@ const locales = {
     // 'de': {name: 'Deutsch'},
     // 'et': {name: 'Eesti'},
     // 'el': {name: 'Ελληνικά'},
-    'en': {name: 'English'},
+    // 'en': {name: 'English'},
     // 'es': {name: 'Español'},
     // 'es-419': {name: 'Español Latinoamericano'},
     // 'eu': {name: 'Euskara'},
