@@ -524,6 +524,8 @@
     "gui.extension.translate.description": "把文字翻译成多种语言。",
     "gui.extension.makeymakey.name": "Makey Makey",
     "gui.extension.makeymakey.description": "把任何东西变成按键",
+    "gui.extension.helloWorld.name": "你好 世界",
+    "gui.extension.helloWorld.description": "这是一个测试扩展。",
     "gui.libraryTags.all": "所有",
     "gui.libraryTags.animals": "动物",
     "gui.libraryTags.dance": "舞蹈",

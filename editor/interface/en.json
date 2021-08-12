@@ -524,6 +524,8 @@
     "gui.extension.translate.description": "Translate text into many languages.",
     "gui.extension.makeymakey.name": "Makey Makey",
     "gui.extension.makeymakey.description": "Make anything into a key.",
+    "gui.extension.helloWorld.name": "Hello World",
+    "gui.extension.helloWorld.description": "This is a test extension.",
     "gui.libraryTags.all": "All",
     "gui.libraryTags.animals": "Animals",
     "gui.libraryTags.dance": "Dance",

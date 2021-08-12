@@ -385,5 +385,7 @@
     "wedo2.tiltDirection.right": "右",
     "wedo2.tiltDirection.up": "上",
     "wedo2.whenDistance": "当距离[OP][REFERENCE]",
-    "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜"
+    "wedo2.whenTilted": "当向[TILT_DIRECTION_ANY]倾斜",
+    "helloWorld.say": "说 [TEXT]",
+    "helloWorld.defaultTextToSay": "你好，世界"
 }
