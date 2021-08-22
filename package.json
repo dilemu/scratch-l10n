@@ -1,6 +1,6 @@
 {
-    "name": "openblock-l10n",
-    "version": "3.10.0",
+    "name": "delightmom-scratch-l10n",
+    "version": "0.1.0",
     "description": "Localization for the Openblock components",
     "main": "./dist/l10n.js",
     "browser": "./src/index.js",
@@ -39,14 +39,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/openblockcc/openblock-l10n.git"
+        "url": "git+https://github.com/dilemu/scratch-l10n"
     },
     "author": "Massachusetts Institute of Technology",
     "license": "BSD-3-Clause",
     "bugs": {
-        "url": "https://github.com/openblockcc/openblock-l10n/issues"
+        "url": "https://github.com/dilemu/scratch-l10n/issues"
     },
-    "homepage": "https://github.com/openblockcc/openblock-l10n#readme",
+    "homepage": "https://github.com/dilemu/scratch-l10n#readme",
     "dependencies": {
         "@babel/cli": "^7.1.2",
         "@babel/core": "^7.1.2",
