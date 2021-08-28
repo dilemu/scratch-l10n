@@ -153,6 +153,7 @@
     "gui.menuBar.saveNowLink": "立即保存",
     "gui.menuBar.isShared": "已分享",
     "gui.menuBar.share": "分享",
+    "gui.menuBar.signIn": "登录",
     "gui.modal.help": "帮助",
     "gui.modal.back": "返回",
     "gui.monitor.listMonitor.empty": "(空)",
