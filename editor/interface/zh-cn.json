@@ -609,12 +609,8 @@
     "gui.sharedMessages.replaceProjectWarning": "是否丢弃当前作品中尚未保存的内容？",
     "gui.sharedMessages.clearCacheWarning": "确保你想要清除缓存并重启？",
     "gui.sharedMessages.loadFromComputerTitle": "从电脑中上传",
-<<<<<<< HEAD
-    "gui.gui.defaultProjectTitle": "新的迪乐姆作品"
-=======
-    "gui.gui.defaultProjectTitle": "OpenBlock作品",
+    "gui.gui.defaultProjectTitle": "新的迪乐姆作品",
     "gui.desktopMenuBar.about": "关于",
     "gui.menuBar.privacyPolicy": "隐私政策",
     "gui.menuBar.dataSettings": "数据设置"
->>>>>>> a5464778717edcd6a2ed52d8b16a30c300c07c16
 }
