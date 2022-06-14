@@ -612,5 +612,6 @@
     "gui.gui.defaultProjectTitle": "新的迪乐姆作品",
     "gui.desktopMenuBar.about": "关于",
     "gui.menuBar.privacyPolicy": "隐私政策",
-    "gui.menuBar.dataSettings": "数据设置"
+    "gui.menuBar.dataSettings": "数据设置",
+    "gui.menuBar.deploy": "发布"
 }
