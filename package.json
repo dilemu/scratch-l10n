@@ -1,7 +1,7 @@
 {
     "name": "delightmom-scratch-l10n",
-    "version": "0.1.1",
-    "description": "Localization for the Openblock components",
+    "version": "0.1.2",
+    "description": "Localization for the DBit+ components",
     "main": "./dist/l10n.js",
     "browser": "./src/index.js",
     "bin": {
@@ -37,16 +37,8 @@
         "validate:editor": "npm run validate:blocks && npm run validate:extensions && npm run validate:interface && npm run validate:paint",
         "validate:www": "babel-node scripts/validate-www ./www"
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/dilemu/scratch-l10n"
-    },
     "author": "Massachusetts Institute of Technology",
     "license": "BSD-3-Clause",
-    "bugs": {
-        "url": "https://github.com/dilemu/scratch-l10n/issues"
-    },
-    "homepage": "https://github.com/dilemu/scratch-l10n#readme",
     "dependencies": {
         "@babel/cli": "^7.1.2",
         "@babel/core": "^7.1.2",
